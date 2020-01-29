@@ -21,5 +21,11 @@ public class RestAssuredAPITest {
 		System.out.println("deleteTwitter");
 	}
 	
+	@Test
+	public void deleteTwitter11()
+	{
+		System.out.println("deleteTwitter11");
+	}
+	
 
 }
