@@ -23,6 +23,11 @@ public class SeleniumTest {
 	{
 		System.out.println("elementsUI23");
 	}
+	@Test
+	public void elementsU456()
+	{
+		System.out.println("elementsUI23");
+	}
 	
 
 }
